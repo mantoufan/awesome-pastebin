@@ -36,7 +36,7 @@ General-purpose services for sharing text, notes, logs, or code snippets.
 - [Modern Paste](https://modernpaste.com) - Pastebin service; alias: `99paste.com`.
 - [Pastee](https://pastee.dev) - Paste sharing service.
 - [Pastey](https://pastey.gg) - Pastebin service.
-- [PasteCN](https://pastecn.com) - Pastebin service.
+- [PasteCN](https://pastecn.com) - Create shareable shadcn/ui registry URLs.
 - [PasteCode.ru](https://pastecode.ru) - Pastebin service.
 - [Paste JP](https://paste.jp) - Pastebin service.
 - [Pastebin.pt](https://www.pastebin.pt) - Pastebin service.
