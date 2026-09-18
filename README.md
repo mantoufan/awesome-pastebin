@@ -45,7 +45,7 @@ General-purpose services for sharing text, notes, logs, or code snippets.
 - [Paste Zluqe](https://paste.zluqe.org) - Pastebin service.
 - [Pastething](https://pastething.com) - Pastebin service; related host: `share.pastething.com`.
 - [Pasting.rf.gd](http://pasting.rf.gd/) - Pastebin service.
-- [CV.cm](https://cv.cm) - Online clipboard and pastebin for text, images, and files.
+- [cv.cm](https://cv.cm/en/clip/) - No-login cloud clipboard for text, images, and files (gone after 10 views or 24 hours). Same site also runs PDF, image, and QR tools in the browser without uploading.
 - [Rentry](https://rentry.co/) - Markdown paste and publishing service.
 - [Notes.io](https://notes.io) - Short note sharing.
 - [Quick Highlighter](https://quickhighlighter.com) - Paste and syntax highlighting service.
