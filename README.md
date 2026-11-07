@@ -27,6 +27,7 @@ General-purpose services for sharing text, notes, logs, or code snippets.
 适合分享文本、笔记、日志或代码片段的通用服务。
 
 - [Pastebin](https://pastebin.com) - Long-running general pastebin with syntax highlighting and guest posting.
+- [pastesite](https://pastesite.com/) - No-account pastebin for code, logs and text; expiry, passwords, burn-after-read, custom URLs, syntax highlighting and optional browser-side AES-256-GCM encryption; API/CLI on Plus.
 - [JustPaste.it](https://justpaste.it) - Rich text and media paste service; alias: `jpst.it`.
 - [Pastelink](https://pastelink.net) - Simple text and link sharing service.
 - [ControlC](https://controlc.com) - General pastebin; aliases: `pasted.co`, `tny.cz`.
