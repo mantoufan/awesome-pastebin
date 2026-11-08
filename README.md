@@ -47,6 +47,7 @@ General-purpose services for sharing text, notes, logs, or code snippets.
 - [Pasting.rf.gd](http://pasting.rf.gd/) - Pastebin service.
 - [cv.cm](https://cv.cm/en/clip/) - No-login cloud clipboard for text, images, and files (gone after 10 views or 24 hours). Same site also runs PDF, image, and QR tools in the browser without uploading.
 - [Rentry](https://rentry.co/) - Markdown paste and publishing service.
+- [BrewPage](https://brewpage.app) - No-signup sharing of text, Markdown, HTML pages, JSON and files via HTTPS links; expiry 1-30 days, optional password, REST API and remote MCP server.
 - [Notes.io](https://notes.io) - Short note sharing.
 - [Quick Highlighter](https://quickhighlighter.com) - Paste and syntax highlighting service.
 - [Lesma](https://lesma.eu) - Pastebin service with API support.
