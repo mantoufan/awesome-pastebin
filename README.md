@@ -97,6 +97,7 @@ Small, fast, or low-friction paste services.
 - [Xi.pe](https://xi.pe) - Minimal paste service.
 - [Commie.io](https://commie.io) - Minimal paste service.
 - [Cl1p](https://cl1p.net) - Online clipboard.
+- [Online Clipboard](https://online-clipboard.io/) - No-login online clipboard; paste text on one device, read it on another with a 6-digit code; optional passcode, expiry and burn after reading.
 - [Cutapaste](http://cutapaste.net) - Paste service.
 - [IvPaste](https://ivpaste.com) - Paste service.
 - [JustPaste.me](https://justpaste.me) - Paste service.
